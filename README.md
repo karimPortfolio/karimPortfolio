@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Karim!
+# 👋 Hello, I'm Mohamed Karim Balla!
 
 ### 💻 Full Stack Developer | 🚀 Problem Solver | ✨ Creative Builder
 
@@ -41,20 +41,31 @@ const karim = {
 ## 🌟 Featured Projects
 
 ### 🎯 [Deploy Admin Panel](https://github.com/karimPortfolio/deploy-admin-panel)
-> A comprehensive admin dashboard for managing deployments and monitoring applications
-- 📊 Real-time deployment tracking and monitoring
+> A modern, admin-focused dashboard for managing servers, users, security groups, SSH keys, and Rds databases + snapshots. The platform helps you stay on top of your cloud resources with application monitoring, weekly audits, intuitive UI, and automated alerts — all with support for dark/light mode, multi-language support, and secure authentication.
+- ✅ Manage Servers
+- ✅ Security Groups
+- ✅ SSH Key Management
+- ✅ RDS Databases & Databases Snapshots
+- ✅ User Management
+- 📊 Dashboard & Weekly Audit
+- 🩺 Application Monitoring
+- 🌍 Internationalization (i18n)
 - 🔐 Secure authentication and authorization
 - 📱 Responsive design for all devices
+- 👤 User Profile
+- 🌙 Dark / Light Mode
+- 🔔 Email & In-App Notifications
 - ⚡ Built with modern tech stack for optimal performance
 
 ### ✈️ [Moroccan Airways](https://github.com/karimPortfolio/Moroccan-airways)
 > Full-featured airline booking and management system
 - 🎫 Flight booking and reservation system
 - 👥 User management and profiles
-- 💳 Payment integration
-- 🌍 Multi-language support
+- 🤖 Chat Bot Assistant
+- 💳 Payment simulation
+- ✈️ Flight Tracking
 
-### ✅ [Todo App](https://github.com/karimPortfolio/todo-app)
+### ✅ [Todo App](https://github.com/karimPortfolio/todo-app-mobile-)
 > Modern task management application with intuitive design
 - ✨ Clean and intuitive user interface
 - 📝 CRUD operations for task management
@@ -67,6 +78,18 @@ const karim = {
 - 👨‍🍳 Order tracking and processing
 - 📊 Sales analytics and reporting
 - 👥 Staff and table management
+
+### 🍽️ [Karim's Shopper](https://github.com/karimPortfolio/Moroccan-Airways-frontend)
+> Complete restaurant operations management system
+-⭐ Product Search
+-🧡 Wishlist & Cart
+-🔐 Secure Transactions
+-📈 Sales & Profit Tracking
+-📊 User-Friendly Dashboard
+-🔔 Notifications
+-💬 User Comments
+-❤️ Likes on Comments
+-🛡️ Comment Reporting
 
 ---
 
@@ -90,10 +113,9 @@ I'm always interested in collaborating on exciting projects or discussing new op
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karim)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfoliokarim.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimballa/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedkarimballa@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://karim-portfolio-web.surge.sh)
 
 </div>
 
