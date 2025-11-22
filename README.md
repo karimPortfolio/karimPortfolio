@@ -79,7 +79,7 @@ const karim = {
 - 📊 Sales analytics and reporting
 - 👥 Staff and table management
 
-### 🍽️ [Karim's Shopper](https://github.com/karimPortfolio/Karim-shopper)
+### 📦 [Karim's Shopper](https://github.com/karimPortfolio/Karim-shopper)
 > Karim's Shopper is a user-friendly e-commerce web application that gives users the possibility to buy and sell electronic products online, providing them with the possibility to search for products and add products to their wishlist and to cart, and with easy and secure transaction payments. Karim's Shopper tracks users' purchases, sales, and orders to grow their sales and profits in the application without the need for third-party websites and by providing them with a user-friendly dashboard to manage their products orders and wichlist and keeps them updated with their earnings. With a seamless and user-friendly interface, this web application opens up a world of possibilities for both buyers and sellers, offering an extensive range of features to enhance the online shopping experience.
 - ⭐ Product Search
 - 🧡 Wishlist & Cart
