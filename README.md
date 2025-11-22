@@ -28,11 +28,11 @@ const karim = {
     code: ["JavaScript", "TypeScript", "Python", "PHP"],
     frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
     backend: ["Node.js", "Express", "Laravel", "Nest.js"],
-    database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "MariaDB", "SQLite],
+    database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "MariaDB", "SQLite"],
     tools: ["Git", "Docker", "VS Code", "Postman"],
     architecture: ["REST APIs", "SPA", "MVC"],
     cloud: ["AWS"],
-    AI tools:  ["Copilot", "Claude", "ChatGPT", "Bolt]
+    AiTools:  ["Copilot", "Claude", "ChatGPT", "Bolt]
 };
 ```
 
@@ -79,17 +79,17 @@ const karim = {
 - 📊 Sales analytics and reporting
 - 👥 Staff and table management
 
-### 🍽️ [Karim's Shopper](https://github.com/karimPortfolio/Moroccan-Airways-frontend)
-> Complete restaurant operations management system
--⭐ Product Search
--🧡 Wishlist & Cart
--🔐 Secure Transactions
--📈 Sales & Profit Tracking
--📊 User-Friendly Dashboard
--🔔 Notifications
--💬 User Comments
--❤️ Likes on Comments
--🛡️ Comment Reporting
+### 🍽️ [Karim's Shopper](https://github.com/karimPortfolio/Karim-shopper)
+> Karim's Shopper is a user-friendly e-commerce web application that gives users the possibility to buy and sell electronic products online, providing them with the possibility to search for products and add products to their wishlist and to cart, and with easy and secure transaction payments. Karim's Shopper tracks users' purchases, sales, and orders to grow their sales and profits in the application without the need for third-party websites and by providing them with a user-friendly dashboard to manage their products orders and wichlist and keeps them updated with their earnings. With a seamless and user-friendly interface, this web application opens up a world of possibilities for both buyers and sellers, offering an extensive range of features to enhance the online shopping experience.
+- ⭐ Product Search
+- 🧡 Wishlist & Cart
+- 🔐 Secure Transactions
+- 📈 Sales & Profit Tracking
+- 📊 User-Friendly Dashboard
+- 🔔 Notifications
+- 💬 User Comments
+- ❤️ Likes on Comments
+- 🛡️ Comment Reporting
 
 ---
 
