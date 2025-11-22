@@ -25,12 +25,14 @@ I'm a passionate developer who loves creating innovative solutions and bringing 
 
 ```javascript
 const karim = {
-    code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "PHP"],
+    code: ["JavaScript", "TypeScript", "Python", "PHP"],
     frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express", "Django", "Laravel"],
-    database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-    tools: ["Git", "Docker", "VS Code", "Postman", "Figma"],
-    architecture: ["REST APIs", "Microservices", "SPA", "MVC"]
+    backend: ["Node.js", "Express", "Laravel", "Nest.js"],
+    database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "MariaDB", "SQLite],
+    tools: ["Git", "Docker", "VS Code", "Postman"],
+    architecture: ["REST APIs", "SPA", "MVC"],
+    cloud: ["AWS"],
+    AI tools:  ["Copilot", "Claude", "ChatGPT", "Bolt]
 };
 ```
 
