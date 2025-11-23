@@ -25,14 +25,15 @@ I'm a passionate developer who loves creating innovative solutions and bringing 
 
 ```javascript
 const karim = {
-    code: ["JavaScript", "TypeScript", "Python", "PHP"],
-    frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap"],
+    programmingLanguages: ["JavaScript", "TypeScript", "Python", "PHP"],
+    frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap", "Livewire", "ShadcnUI", "Quasar Framework"],
     backend: ["Node.js", "Express", "Laravel", "Nest.js"],
     database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "MariaDB", "SQLite"],
-    tools: ["Git", "Docker", "VS Code", "Postman"],
+    toolsAndWorkflow: ["Jira", "Git", "GitHub", "Postman", "Agile/Scrum"],
     architecture: ["REST APIs", "SPA", "MVC"],
-    cloud: ["AWS"],
-    AiTools:  ["Copilot", "Claude", "ChatGPT", "Bolt]
+    cloudAndDevops: ["AWS", "GitHub Actions", "SSH", "Nginx", "Linux"],
+    AiTools:  ["GitHub Copilot", "Claude", "ChatGPT", "Bolt", "Gemini"],
+    other: ["Telegram/Discord API", "OAuth", "Google Maps", "OpenAI (API)", "ApexCharts"]
 };
 ```
 
@@ -41,7 +42,7 @@ const karim = {
 ## 🌟 Featured Projects
 
 ### 🎯 [Deploy Admin Panel](https://github.com/karimPortfolio/deploy-admin-panel)
-> A modern, admin-focused dashboard for managing servers, users, security groups, SSH keys, and Rds databases + snapshots. The platform helps you stay on top of your cloud resources with application monitoring, weekly audits, intuitive UI, and automated alerts — all with support for dark/light mode, multi-language support, and secure authentication.
+> A modern, admin-focused dashboard for managing servers, users, security groups, SSH keys, and RDS databases + snapshots. The platform helps you stay on top of your cloud resources with application monitoring, weekly audits, intuitive UI, and automated alerts — all with support for dark/light mode, multi-language support, and secure authentication.
 - ✅ Manage Servers
 - ✅ Security Groups
 - ✅ SSH Key Management
@@ -55,7 +56,7 @@ const karim = {
 - 👤 User Profile
 - 🌙 Dark / Light Mode
 - 🔔 Email & In-App Notifications
-- ⚡ Built with modern tech stack for optimal performance
+- ⚡ Built with a modern tech stack for optimal performance
 
 ### ✈️ [Moroccan Airways](https://github.com/karimPortfolio/Moroccan-airways)
 > Full-featured airline booking and management system
@@ -71,6 +72,7 @@ const karim = {
 - 📝 CRUD operations for task management
 - 🏷️ Categories and priority levels
 - 💾 Persistent data storage
+- 🔐 Secure In-App/Google OAuth authentication
 
 ### 🍽️ [Restaurant Management Dashboard](https://github.com/karimPortfolio/dashboard-restaurant-management)
 > Complete restaurant operations management system
@@ -126,10 +128,6 @@ I'm always interested in collaborating on exciting projects or discussing new op
 ### 💭 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/karimPortfolio/count.svg)
 
 ---
 
