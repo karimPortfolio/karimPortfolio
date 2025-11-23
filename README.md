@@ -26,7 +26,7 @@ I'm a passionate developer who loves creating innovative solutions and bringing 
 ```javascript
 const karim = {
     programmingLanguages: ["JavaScript", "TypeScript", "Python", "PHP"],
-    frontend: ["React", "Vue.js", "Next.js", "Tailwind CSS", "Bootstrap", "Livewire", "ShadcnUI", "Quasar Framework"],
+    frontend: ["React", "Vue.js", "Next.js", "Alpine.js", "Tailwind CSS", "Livewire"],
     backend: ["Node.js", "Express", "Laravel", "Nest.js"],
     database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "MariaDB", "SQLite"],
     toolsAndWorkflow: ["Jira", "Git", "GitHub", "Postman", "Agile/Scrum"],
