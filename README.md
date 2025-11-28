@@ -67,7 +67,7 @@ const karim = {
 - ✈️ Flight Tracking
 
 ### ✅ [Todo App](https://github.com/karimPortfolio/todo-app-mobile-)
-> Modern task management application with intuitive design
+> Modern react native mobile task management application with intuitive design
 - ✨ Clean and intuitive user interface
 - 📝 CRUD operations for task management
 - 🏷️ Categories and priority levels
