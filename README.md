@@ -41,7 +41,21 @@ const karim = {
 
 ## 🌟 Featured Projects
 
-### 🎯 [Deploy Admin Panel](https://github.com/karimPortfolio/deploy-admin-panel)
+### 🚀 [Hirely](https://github.com/karimPortfolio/deploy-admin-panel)
+> Hirely is a modern, scalable Job Application & Recruitment Management Platform built to help companies manage their hiring process efficiently from a single dashboard.
+It demonstrates real-world SaaS architecture and engineering best practices, combining a robust backend, a modern frontend, performance optimizations, and containerized infrastructure.
+- 🏢 Multi-tenant architecture for managing multiple companies
+- 🗂️ Departments & Jobs management with clean data separation
+- 👥 Candidates & Applications tracking in a structured workflow
+- 🔍 Advanced filtering, sorting & pagination for large datasets
+- 📤 Data export in CSV & Excel (XLSX) formats
+- ⚡ Redis caching for improved performance and reduced DB load
+- 🧩 Modular NestJS backend with clean service-layer architecture
+- 🎨 Modern UI built with Next.js, TypeScript & shadcn/ui
+- 🔁 Reusable hooks & components for maintainable frontend logic
+- 🐳 Fully Dockerized setup using Docker & Docker Compose
+
+### 🎯 [Futurixtech](https://github.com/karimPortfolio/deploy-admin-panel)
 > A modern, admin-focused dashboard for managing servers, users, security groups, SSH keys, and RDS databases + snapshots. The platform helps you stay on top of your cloud resources with application monitoring, weekly audits, intuitive UI, and automated alerts — all with support for dark/light mode, multi-language support, and secure authentication.
 - ✅ Manage Servers
 - ✅ Security Groups
@@ -66,7 +80,7 @@ const karim = {
 - 💳 Payment simulation
 - ✈️ Flight Tracking
 
-### ✅ [Todo App](https://github.com/karimPortfolio/todo-app-mobile-)
+### ✅ [Daily Tasks](https://github.com/karimPortfolio/todo-app-mobile-)
 > Modern react native mobile task management application with intuitive design
 - ✨ Clean and intuitive user interface
 - 📝 CRUD operations for task management
