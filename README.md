@@ -41,7 +41,7 @@ const karim = {
 
 ## 🌟 Featured Projects
 
-### 🚀 [Hirely](https://github.com/karimPortfolio/deploy-admin-panel)
+### 🚀 [Hirely](https://github.com/karimPortfolio/job-application-tracker)
 > Hirely is a modern, scalable Job Application & Recruitment Management Platform built to help companies manage their hiring process efficiently from a single dashboard.
 It demonstrates real-world SaaS architecture and engineering best practices, combining a robust backend, a modern frontend, performance optimizations, and containerized infrastructure.
 - 🏢 Multi-tenant architecture for managing multiple companies
