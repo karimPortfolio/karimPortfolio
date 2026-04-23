@@ -30,7 +30,7 @@ const karim = {
     backend: ["Node.js", "Express", "Laravel", "Nest.js"],
     database: ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "MariaDB", "SQLite"],
     toolsAndWorkflow: ["Jira", "Git", "GitHub", "Postman", "Agile/Scrum"],
-    architecture: ["REST APIs", "SPA", "MVC"],
+    architecture: ["REST APIs", "GraphQL", "SPA", "MVC"],
     cloudAndDevops: ["AWS", "GitHub Actions", "SSH", "Nginx", "Linux"],
     AiTools:  ["GitHub Copilot", "Claude", "ChatGPT", "Bolt", "Gemini"],
     other: ["Telegram/Discord API", "OAuth", "Google Maps", "OpenAI (API)", "ApexCharts"]
