@@ -47,6 +47,9 @@ It demonstrates real-world SaaS architecture and engineering best practices, com
 - 🏢 Multi-tenant architecture for managing multiple companies
 - 🗂️ Departments & Jobs management with clean data separation
 - 👥 Candidates & Applications tracking in a structured workflow
+- 📄 AI-Powered Resume Parsing for automated candidate data extraction
+- 🤖 Smart Screening feature using AI for intelligent application filtering
+- 🚀 AI Job Description Generator with enhancement capabilities
 - 🔍 Advanced filtering, sorting & pagination for large datasets
 - 📤 Data export in CSV & Excel (XLSX) formats
 - ⚡ Redis caching for improved performance and reduced DB load
